@@ -3,7 +3,11 @@ The goal is to reduce the employee turnover percentages at companies and have th
 <br><br>
 The high turnover rates lower the reputation of companies when they do mass layoffs and it is extremely disturbing to the overall global economy. This is just one way we can help companies genuinely retain their employees to reduce turnover rates and potentially reduce the national unemployment rate. 
 <br><br>
-More documentation will be present over the coming days and weeks. Stay tuned.
+More documentation will be present over the coming days and weeks. 
 <br><br>
+
+Updates<br>
+2025-12-01: Created repository; began research<br>
+
 
 
