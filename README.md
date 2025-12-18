@@ -8,6 +8,6 @@ More documentation will be present over the coming days and weeks.
 
 Updates<br>
 2025-12-01: Created repository; began research<br>
-
+2025-12-17: Added test Python file<br>
 
 
